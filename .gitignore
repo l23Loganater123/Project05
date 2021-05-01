@@ -4,5 +4,7 @@
 !README.md
 !Makefile
 !input*.txt
+!*.json
 !.gitignore
 !checkall.bash
+
